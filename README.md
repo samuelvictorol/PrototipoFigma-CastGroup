@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/95868897/225210001-7248244e-b82f-47d6-affe-ae5ba780a842.png)
+![image](https://user-images.githubusercontent.com/95868897/225210053-8ce596ae-3dcf-4c44-a7ff-f9289cfabc35.png)
+
+
 # Especificação Técnica
 - Por: Samuel Victor Oliveira Lima.
 - Link para visualização do **protótipo**:
